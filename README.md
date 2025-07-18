@@ -40,5 +40,3 @@ Each comparator produces three outputs: **A > B**, **A = B**, and **A < B**.
 1. [IRJET Paper on GDI Comparators](https://www.irjet.net/archives/V6/i7/IRJET-V6I7509.pdf)  
 2. [JETIR Paper](https://www.jetir.org/papers/JETIR1903917.pdf)  
 3. [Academia.edu Paper – Design in 45nm/90nm](https://www.academia.edu/25840062/...)  
-4. [Semantic Scholar – 2-bit GDI Comparator](https://www.semanticscholar.org/paper/...)  
-5. [Another Academia.edu Paper](https://www.academia.edu/44351018/...)
